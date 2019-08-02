@@ -13,7 +13,7 @@ namespace HighestGPA
                 new Student { Name = "Cory",    GPA = 2.80m },
                 new Student { Name = "Davey",   GPA = 4.42m },
                 new Student { Name = "Eddy",    GPA = 4.15m },
-                new Student { Name = "Fanny",   GPA = 3.73m },
+                new Student { Name = "Fanny",   GPA = 3.73m }, 
                 new Student { Name = "Georgie", GPA = 1.24m },
                 new Student { Name = "Harry",   GPA = 3.59m },
                 new Student { Name = "Izzy",    GPA = 2.38m },
